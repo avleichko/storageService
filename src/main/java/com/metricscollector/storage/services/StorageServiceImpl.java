@@ -1,7 +1,7 @@
 package com.metricscollector.storage.services;
 
 import com.metricscollector.storage.dao.StorageDao;
-import com.metricscollector.storage.dtos.StorageDto;
+import com.metricscollector.storage.dto.StorageDto;
 import com.metricscollector.storage.repositorys.StorageRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.modelmapper.ModelMapper;

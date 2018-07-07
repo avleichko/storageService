@@ -1,6 +1,6 @@
 package com.metricscollector.storage.services;
 
-import com.metricscollector.storage.dtos.StorageDto;
+import com.metricscollector.storage.dto.StorageDto;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 

@@ -1,6 +1,6 @@
 package com.metricscollector.storage.controllers;
 
-import com.metricscollector.storage.dtos.StorageDto;
+import com.metricscollector.storage.dto.StorageDto;
 import com.metricscollector.storage.services.StorageService;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;

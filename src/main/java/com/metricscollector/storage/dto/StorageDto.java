@@ -1,4 +1,4 @@
-package com.metricscollector.storage.dtos;
+package com.metricscollector.storage.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
